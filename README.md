@@ -1,1 +1,5 @@
-;et.pt.;etl,glt,[poektrmgojetm
+<<<<<<< HEAD
+read
+=======
+read
+>>>>>>> branch1
