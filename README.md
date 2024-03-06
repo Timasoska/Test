@@ -1,1 +1,1 @@
-etl,glt,[poektrmgojetm
+;et.pt.;etl,glt,[poektrmgojetm
