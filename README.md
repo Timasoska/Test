@@ -1,5 +1,4 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 read
 =======
-read
->>>>>>> branch1
